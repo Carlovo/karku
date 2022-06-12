@@ -275,6 +275,7 @@ Je hebt veel extra kenmerken, extra boekhoudwerk wat er in je huid zit en je moe
 De extra kenmerken lijken misschien ongebalanceerd veel.
 Onthoud dat normale stembinders bij een niveau stijgen keus hebben uit veel meer spreuken die ze sterker maken.
 Die luxe heb je hier veel minder.
+Zie [deze lijst](/karku/karakter_subklassen/extras/geheelonthouder_speukenlijst.html) hoe ontzettend beperkt je keuze is.
 Je zal dus meer in horten en stoten sterker worden.
 Je ontwikkeling zal wat gladder worden door Ken Je Vijand en Autodidact.
 
@@ -292,7 +293,7 @@ Vecht je weinig tegen/met magiërs met spreuken, geef dan Autodidact voor meer v
 
 Daarnaast kun je de balans verfijnen met de volgende opties.
 Magie-Ontwijking werkt alleen op effecten met invloedssferen.
-Met autodidact kun je geen spreuken leren die qua smaak erg buiten de geheelonthouder vallen, zoals _verstandspiek_ en _ceremonie_.
+Met Autodidact kun je geen spreuken leren die qua smaak erg buiten de geheelonthouder vallen, zoals _verstandspiek_ en _ceremonie_.
 
 ### Wat Is Magie?
 

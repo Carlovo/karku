@@ -1,5 +1,7 @@
 # Gieter Vol Magie
 
+Zie ook het voorwerp [gieter vol magie](/karku/magische_voorwerpen/gieter_vol_magie.html).
+
 Deze simpele tinnen gieter is op het oog niet te onderscheiden van een normale gieter.
 Wanneer je echter het juiste commandowoord uitspreekt, dan vat de gieter vlam en begint gillend rond te rennen.
 Daarbij zet hij alles in brand waar hij tegenaan loopt.
@@ -12,9 +14,11 @@ Sindsdien maken ambachtstovenaars beide soort gieters.
 De vloek op de gieter is overdraagbaar.
 Wanneer de gieter voor de tweede keer op een dag wordt geactiveerd, dan vat de activator zelf ook vlam.
 
+**Geconstrueerde Aard.** De gieter heeft geen lucht, voedsel, drinken of slaap nodig.
+
 ## Statistieken
 
-_Minuscuul bouwsel,_
+_Minuscule constructie,_
 _geen gevoel voor rechtvaardigheid_
 
 ---
@@ -67,7 +71,7 @@ De gieter heeft voordeel op reddingsworpen tegen spreuken en andere magische eff
 
 ---
 
-**_Lopend vuurtje_.**
+**_Lopend Vuurtje_.**
 (Alleen als de vloek actief is.)
 De gieter loopt vijf keer 5 ft in een willekeurige richting.
 Als de gieter daarbij in de ruimte van een ander wezen komt of tegen iets opbotst, dan moet de ander een MG 15 reddingsworp in Behendigheid maken.
