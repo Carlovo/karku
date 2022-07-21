@@ -71,7 +71,7 @@ De gieter heeft voordeel op reddingsworpen tegen spreuken en andere magische eff
 
 ---
 
-**_Lopend Vuurtje_.**
+**_Lopend Vuurtje._**
 (Alleen als de vloek actief is.)
 De gieter loopt vijf keer 5 ft in een willekeurige richting.
 Als de gieter daarbij in de ruimte van een ander wezen komt of tegen iets opbotst, dan moet de ander een MG 15 reddingsworp in Behendigheid maken.
