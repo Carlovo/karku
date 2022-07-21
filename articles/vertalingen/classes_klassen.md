@@ -1,4 +1,4 @@
-# Classes: Klassen
+# Character Classes: Karakterklassen
 
 **_Artificer._**
 Artificiaris; zelf verzonnen woord, samentrekking van _artificiarius_ en bibliothecaris.
