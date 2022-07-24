@@ -3,7 +3,8 @@
 Deze worden altijd geschreven met hoofdletters als bij titels.
 
 **_Attack._**
-Toeslaan, vrije vertaling.
+Toeslaan; vrije vertaling.
+Val aan is letterlijker, maar dat klinkt meer als een bevel dan een persoon die daadwerkelijk één aanval uitvoert.
 
 **_Cast a Spell._**
 Voer een Spreuk Uit; letterlijke vertaling.
