@@ -4,11 +4,11 @@ _8ste niveau_
 _transmutatie_
 
 **Uitvoeringstijd:**
-_1 uur_
+_1 uur_  
 **Bereik:**
-_Aanraking_
+_Aanraking_  
 **Componenten:**
-_V, S, M (zie verdere beschrijving)_
+_V, S, M (zie verdere beschrijving)_  
 **Looptijd:**
 _Instantaan_
 

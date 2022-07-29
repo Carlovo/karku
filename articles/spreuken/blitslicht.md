@@ -4,11 +4,11 @@ _3de niveau_
 _oproeping_
 
 **Uitvoeringstijd:**
-_1 actie_
+_1 actie_  
 **Bereik:**
-_150 ft_
+_150 ft_  
 **Componenten:**
-_V, S, M (een mespuntje metaalpoeder)_
+_V, S, M (een mespuntje metaalpoeder)_  
 **Looptijd:**
 _Instantaan_
 
