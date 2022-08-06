@@ -253,7 +253,7 @@ Soms lijdt je bij het uitvoeren van de spreuk psychische schade, terwijl je het 
 
 _"Als ik boos op iemand ben, dan beeld ik me in hoe ik alle vuurballen geabsorbeerd in mijn huid op diegene loslaat._
 _Dit werkt altijd extreem relaxend."_
-_- Wimbie, geheelonthouder en mental coach_
+_- Wimbie, geheelonthoudend magiër en mental coach_
 
 Van alle magiërs zal een geheelonthouder het minst snel de beheersing verliezen, maar ook zij kunnen een keer knappen.
 Deze ontlading kan gepaard gaan met erge repercussies voor de geheelonthouder.

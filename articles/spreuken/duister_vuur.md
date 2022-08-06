@@ -20,6 +20,8 @@ Als het object gedragen wordt door een vijandig wezen, dan mag deze een redding 
 Er ontstaat vervolgens een duistere vlam gebonden aan het object waarop zij gecreëerd is.
 De vlam geeft geen hitte af en heeft geen brandstof nodig.
 De vlam geeft magische duisternis in plaats van licht af in een radius van 20 ft.
+De duisternis gedraagt zich als normaal licht en gaat geen hoekjes om.
+Wezens met donkerzicht zien niks in deze duisternis en niet-magisch licht kan dit gebied niet verlichten.
 
 Voor de uitvoerder van deze spreuk lijkt de vlam dimlicht af te geven in plaats van duisternis.
 Als bonusactie kun je aan iemand denken en diens ware naam fluisteren.
