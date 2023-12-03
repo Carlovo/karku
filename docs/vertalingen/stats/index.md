@@ -34,3 +34,14 @@ Reddingsworp.
 
 **_Traits._**
 Karaktertrekken.
+
+## Subcategorieën
+
+```{toctree}
+:maxdepth: 1
+:caption: Inhoudsopgave
+abilities.md
+alignment.md
+senses.md
+skills.md
+```

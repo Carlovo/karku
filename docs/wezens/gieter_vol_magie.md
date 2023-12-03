@@ -1,6 +1,6 @@
 # Gieter Vol Magie
 
-Zie ook het voorwerp [gieter vol magie](/karku/magische_voorwerpen/gieter_vol_magie.html).
+Zie ook het voorwerp: [gieter vol magie (voorwerp)](project:../magische_voorwerpen/gieter_vol_magie.md).
 
 Deze simpele tinnen gieter is op het oog niet te onderscheiden van een normale gieter.
 Wanneer je echter het juiste commandowoord uitspreekt, dan vat de gieter vlam en begint gillend rond te rennen.
@@ -67,9 +67,9 @@ Zolang de gieter zich niet beweegt, is hij niet te onderscheiden van een normale
 **Magie Weerstand.**
 De gieter heeft voordeel op reddingsworpen tegen spreuken en andere magische effecten.
 
-### Acties
-
 ---
+
+### Acties
 
 **_Lopend Vuurtje._**
 (Alleen als de vloek actief is.)

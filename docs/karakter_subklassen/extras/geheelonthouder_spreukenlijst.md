@@ -1,7 +1,5 @@
 # Stembinder Spreukenlijst in Afzwering & Waarzeggerij (Geheelonthouder)
 
-[TOC]
-
 ## Spreuken
 
 ### Toverkunstjes (0de Niveau)

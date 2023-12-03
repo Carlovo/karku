@@ -34,3 +34,11 @@ Altijd cursief geschreven.
 **_Spell._**
 Spreuk; letterlijke vertaling.
 Altijd cursief.
+
+## Subcategorieën
+
+```{toctree}
+:maxdepth: 1
+:caption: Inhoudsopgave
+schools.md
+```

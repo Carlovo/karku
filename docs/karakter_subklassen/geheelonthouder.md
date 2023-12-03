@@ -13,8 +13,6 @@ Weer anderen gaan steeds meer boeren en scheten laten.
 Ook bekend zijn nagels die licht gaan geven aan de randen.
 Bij kwaadaardige geheelonthouders wordt vaak genoemd dat er complexe tattoos op hun huid verschijnen die een eigen leven lijken te leiden.
 
-[TOC]
-
 ## Kenmerken van een Geheelonthouder
 
 ### Vanaf Niveau 1
@@ -275,7 +273,7 @@ Je hebt veel extra kenmerken, extra boekhoudwerk wat er in je huid zit en je moe
 De extra kenmerken lijken misschien ongebalanceerd veel.
 Onthoud dat normale stembinders bij een niveau stijgen keus hebben uit veel meer spreuken die ze sterker maken.
 Die luxe heb je hier veel minder.
-Zie [deze lijst](/karku/karakter_subklassen/extras/geheelonthouder_speukenlijst.html) hoe ontzettend beperkt je keuze is.
+Zie [deze lijst](project:extras/geheelonthouder_spreukenlijst.md) hoe ontzettend beperkt je keuze is.
 Je zal dus meer in horten en stoten sterker worden.
 Je ontwikkeling zal wat gladder worden door Ken Je Vijand en Autodidact.
 

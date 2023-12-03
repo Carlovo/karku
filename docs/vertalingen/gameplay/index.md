@@ -20,3 +20,12 @@ Reikwijdte.
 
 **_Ranged._**
 Afstands-.
+
+## Subcategorieën
+
+```{toctree}
+:maxdepth: 1
+:caption: Inhoudsopgave
+actions.md
+damage.md
+```
