@@ -103,3 +103,13 @@ resource "aws_s3_object" "woff2" {
   source       = "docs/_build/html/${each.key}"
   etag         = filemd5("docs/_build/html/${each.key}")
 }
+
+resource "aws_s3_object" "ico" {
+  for_each = fileset("docs/_build/html/", "**/*.ico")
+
+  bucket       = var.bucket_name
+  key          = each.key
+  content_type = "image/vnd.microsoft.icon"
+  source       = "docs/_build/html/${each.key}"
+  etag         = filemd5("docs/_build/html/${each.key}")
+}

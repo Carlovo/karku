@@ -1,5 +1,19 @@
 # Karku's Kanttekeningen
 
+```{image} _images/karku-4c-alpha-light.png
+:alt: Karku sitting in a rocking chair reading a book smoking a pipe
+:width: 40%
+:align: right
+:class: only-light
+```
+
+```{image} _images/karku-4c-alpha-dark.png
+:alt: Karku sitting in a rocking chair reading a book smoking a pipe
+:width: 40%
+:align: right
+:class: only-dark
+```
+
 Karku's Kanttekeningen
 
 ```{toctree}
