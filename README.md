@@ -13,4 +13,4 @@
 ### Cycle
 
 - `source .venv/bin/activate`
-- `sphinx-build -M html docs/source/ docs/build/`
+- `sphinx-build -M html docs/ docs/_build/`
