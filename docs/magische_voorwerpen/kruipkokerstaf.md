@@ -26,3 +26,7 @@ Alledaags | Minuscuul
 Onalledaags | Klein
 Zeldzaam | Gemiddeld
 Zeer zeldzaam | Groot
+
+## Kanttekeningen
+
+Sommige ambachtstovenaars gebruiken dit object als kattenluikje.

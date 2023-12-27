@@ -26,7 +26,7 @@ Een wezen mag aan het eind van diens volgende beurten de reddingsworp herhalen o
 Bouwsels en wezens zonder gehoor zijn immuun voor dit effect.
 
 **_Extra Taal._**
-Je kan Auran spreken, lezen en schrijven.
+Je kan Auran verstaan, spreken, lezen en schrijven.
 
 **_Goddelijke Vliegsnelheid._**
 Je krijgt een vliegsnelheid van 150 ft per ronde.

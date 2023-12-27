@@ -15,6 +15,7 @@ _Concentratie, tot en met 24 uur_
 Je zegt hardop een roddel die je met magische overtuigingskracht en charme aandikt.
 Je kunt deze roddel zo vaak als je wilt zeggen zolang de spreuk nog actief is.
 Elke keer als een wezen deze roddel hoort en begrijpt dan moet diegene een redding maken in Charisma.
+(Zelf ben je immuun voor de charme van je eigen roddel.)
 Bij falen is het doelwit gecharmeerd door de roddel zolang de spreuk actief is.
 
 Een gecharmeerd wezen moet bij verbale sociale interactie de roddel vertellen aan de andere wezens.
