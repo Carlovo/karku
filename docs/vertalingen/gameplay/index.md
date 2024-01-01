@@ -24,8 +24,8 @@ Afstands-.
 ## Subcategorieën
 
 ```{toctree}
-:maxdepth: 1
 :caption: Inhoudsopgave
 actions.md
+conditions.md
 damage.md
 ```
