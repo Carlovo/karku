@@ -13,15 +13,58 @@ provider "aws" {
   region = "eu-central-1"
 }
 
+provider "aws" {
+  alias  = "useast1"
+  region = "us-east-1"
+}
+
 variable "bucket_name" {
   type = string
+}
+
+variable "alternate_domain_name" {
+  type        = string
+  default     = ""
+  description = "Alternate domain name to serve this documentation on"
+}
+
+variable "aws_route53_zone_name" {
+  type        = string
+  default     = ""
+  description = "Domain name of a HostedZone created by the Route53 Registrar, without trailing '.'"
+}
+
+locals {
+  subject_alternative_names = var.alternate_domain_name == "" ? [] : [var.alternate_domain_name, "www.${var.alternate_domain_name}"]
+  aws_route53_zone_name     = var.aws_route53_zone_name == "" ? var.alternate_domain_name : var.aws_route53_zone_name
+}
+
+data "aws_route53_zone" "selected" {
+  count = local.aws_route53_zone_name == "" ? 0 : 1
+
+  name = local.aws_route53_zone_name
+}
+
+module "certificate_and_validation" {
+  count = var.alternate_domain_name == "" ? 0 : 1
+
+  source = "github.com/Carlovo/acm-certificate-route53-validation"
+
+  # CloudFront accepts only ACM certificates from US-EAST-1
+  providers = { aws = aws.useast1 }
+
+  domain_names = local.subject_alternative_names
+  zone_id      = data.aws_route53_zone.selected[0].zone_id
 }
 
 module "frontend" {
   source = "github.com/Carlovo/cloudfront-s3"
 
-  bucket_name  = var.bucket_name
-  log_requests = true
+  bucket_name                   = var.bucket_name
+  domain_name                   = local.aws_route53_zone_name
+  us_east_1_acm_certificate_arn = var.alternate_domain_name == "" ? "" : module.certificate_and_validation[0].acm_certificate_arn
+  subject_alternative_names     = local.subject_alternative_names
+  log_requests                  = true
 }
 
 output "cloudfront_endpoint" {
