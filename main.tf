@@ -24,6 +24,10 @@ module "frontend" {
   log_requests = true
 }
 
+output "cloudfront_endpoint" {
+  value = module.frontend.cloudfront_endpoint
+}
+
 resource "aws_s3_object" "html" {
   for_each = fileset("docs/_build/html/", "**/*.html")
 

@@ -2,15 +2,21 @@
 
 ## Dev
 
+### Requirements
+
+- pyenv
+- pipenv
+- markdownlint
+- ruff
+- terraform
+
 ### Setting up
 
-- `python3 -m venv .venv`
-- `source .venv/bin/activate`
-- `python -m pip install sphinx`
-- `pip install myst-parser`
-- `pip install sphinx-book-theme`
+- `pipenv install`
 
 ### Cycle
 
-- `source .venv/bin/activate`
-- `sphinx-build -M html docs/ docs/_build/`
+- format: `ruff format`, `terraform format`
+- build: `pipenv run sphinx-build -M html docs/ docs/_build/`
+- test: `python -m http.server`
+- publish: `terraform apply`
