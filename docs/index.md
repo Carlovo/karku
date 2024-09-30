@@ -20,7 +20,7 @@ Een bundeling van vergeten magische kennis die uit de schaduw stapt
 :maxdepth: 1
 :caption: Inhoudsopgave
 karku.md
-karakter_subklassen/index.md
+karakter_opties/index.md
 magische_voorwerpen/index.md
 spreuken/index.md
 vertalingen/index.md
