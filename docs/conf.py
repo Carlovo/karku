@@ -27,6 +27,13 @@ html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
 
 html_theme_options = {
+    "repository_url": "https://github.com/carlovo/karku",
+    "repository_branch": "master",
+    "path_to_docs": "docs",
+    "use_repository_button": True,
+    "use_source_button": True,
+    "use_edit_page_button": True,
+    "use_issues_button": True,
     "logo": {
         "text": "Karku's Kanttekeningen",
         "image_light": "_static/karku-logo-2-crop-4c-alpha-light.png",
